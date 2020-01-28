@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmoteWallCreator", "EmoteWallCreator\EmoteWallCreator.csproj", "{83F764E4-7118-4111-9C67-7AC19E61C0AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmoteWallGUI", "EmoteWallGUI\EmoteWallGUI.csproj", "{FEB97E5A-F426-4582-BB07-E12651EC49D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F764E4-7118-4111-9C67-7AC19E61C0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F764E4-7118-4111-9C67-7AC19E61C0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F764E4-7118-4111-9C67-7AC19E61C0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F764E4-7118-4111-9C67-7AC19E61C0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB97E5A-F426-4582-BB07-E12651EC49D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB97E5A-F426-4582-BB07-E12651EC49D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB97E5A-F426-4582-BB07-E12651EC49D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB97E5A-F426-4582-BB07-E12651EC49D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {033C9CCE-401C-40CC-B269-5DAB76BC6437}
+	EndGlobalSection
+EndGlobal
